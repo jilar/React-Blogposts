@@ -1,4 +1,4 @@
-App diplays a list of blogposts pulled from a database using redux.
+App diplays a list of blogposts pulled from a database and storing the data with redux.
 
-App is part of React education and makes use of React-Redux and redux thunk. 
-Demonstrates knowledge of redux and follows redux cycle of action creators/actions to dispatchers to reducers to finally update state.
+App is part of React education and makes use of and redux thunk in order to create asyncronous actions for api requests.
+
